@@ -1,0 +1,51 @@
+﻿@model List<CheckoutItemVM>
+@{
+    ViewData["Title"] = "Checkout";
+    double TotalPrice = 0;
+}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+<div class="container" style="text-align:center;padding-top:50px">
+    <h1>Shopping Bag</h1>
+</div>
+<div class="container" style="padding-top:50px">
+    <table class=" table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">RefCode</th>
+                <th scope="col">Image</th>
+                <th scope="col">Name</th>
+                <th scope="col">Count</th>
+                <th scope="col">Price</th>
+                <th scope="col">Total</th>
+                <th scope="col">Action</th>
+                
+
+            </tr>
+        </thead>
+        <tbody style="font-weight:bold">
+           @foreach (var item in Model)
+            {
+                <tr>
+                    <th valign="middle" scope="row">@item.Product.RefCode</th>
+                    <td valign="middle">
+                        <div style="width:100px;height:100px">
+                            <img style="max-width:100%;max-height:100px" src="~/assets/img/@item.Product.ProductPhotos.FirstOrDefault()?.Name">
+                        </div>
+                    </td>
+                    <td valign="middle">@item.Product.Title</td>
+                    <td valign="middle">@(item.Count) X</td>
+                    <td valign="middle">@(item.Product.Price)$</td>
+                    <td valign="middle">@(item.Count * item.Product.Price)$</td>
+                    <td valign="middle">
+                        <a class="remove-from-basket btn btn-dark" asp-action="RemoveFromBasket" asp-controller="product" asp-route-productId="@item.Product.Id">Remove product</a>
+                    </td>
+                </tr>
+                TotalPrice += (item.Count * item.Product.Price);
+            }
+           
+        </tbody>
+    </table>
+    <div style="text-align:end">
+        <span style="font-weight:bold"> Total: @(TotalPrice)$</span>
+    </div>
+</div>

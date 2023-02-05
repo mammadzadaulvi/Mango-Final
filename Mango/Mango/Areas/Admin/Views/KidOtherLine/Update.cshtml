@@ -1,0 +1,40 @@
+﻿@using Mango.Areas.Admin.ViewModels.KidOtherLine
+@model KidOtherLineUpdateVM
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+
+                        <p class="card-description">
+                            Update Kid Other Line
+                        </p>
+                        <form enctype="multipart/form-data" method="post" asp-action="update" asp-controller="kidotherline" asp-area="admin" class="forms-sample">
+                            <div class="form-group">
+                                <label asp-for="Title">Title</label>
+                                <input class="form-control" asp-for="Title">
+                                <span asp-validation-for="Title"></span>
+                            </div>
+
+                            <div class="form-group">
+                                <label asp-for="Url">Url</label>
+                                <textarea class="form-control" asp-for="Url"></textarea>
+                                <span asp-validation-for="Url"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Photo">Photo</label>
+                                <input class="form-control" asp-for="Photo">
+                                <span asp-validation-for="Photo"></span>
+                            </div>
+
+                            <button type="submit" class="btn btn-primary me-2">Submit</button>
+                            <a class="btn btn-danger" asp-action="index" asp-controller="kidotherline" asp-area="admin"> Cancel</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

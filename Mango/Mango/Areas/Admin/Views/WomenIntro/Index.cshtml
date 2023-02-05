@@ -1,0 +1,62 @@
+﻿@using Mango.Areas.Admin.ViewModels.WomenIntro
+@model WomenIntroIndexVM
+
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Women Intro</h4>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Title</th>
+                                        <th>Description</th>
+                                        <th>Url</th>
+                                        <th>Photo</th>
+                                        <th>Actions</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+
+                                    @{
+                                        @if (Model.WomenIntro == null)
+                                        {
+                                            <a class="btn btn-primary" asp-action="create" asp-controller="womenintro" asp-area="admin">CREATE Women Intro</a>
+                                        }
+                                        else
+                                        {
+                                            <tr>
+                                                <td>@Model.WomenIntro.Id</td>
+                                                <td>@Model.WomenIntro.Title</td>
+                                                <td>@Model.WomenIntro.Description</td>
+                                                <td>@Model.WomenIntro.Url</td>
+                                                <td>
+                                                 <div style="width:300px">
+                                                        <img style="max-width:100%" src="~/assets/img/@Model.WomenIntro.PhotoPath" />
+                                                    </div>
+                                                </td>
+                                                <td>
+                                                    <a class="btn btn-primary" asp-action="update" asp-controller="womenintro" asp-area="admin" asp-route-id="@Model.WomenIntro.Id">Update</a>
+                                                    <a class="btn btn-danger" onclick="confirm('Eminsinizmi?')" asp-action="delete" asp-controller="womenintro" asp-area="admin" asp-route-id="@Model.WomenIntro.Id">Delete</a>
+                                                    <a class="btn btn-info" asp-action="details" asp-controller="womenintro" asp-area="admin" asp-route-id="@Model.WomenIntro.Id">Details</a>
+                                                </td>
+                                            </tr>
+                                        }
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

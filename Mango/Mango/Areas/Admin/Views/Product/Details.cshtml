@@ -1,0 +1,51 @@
+﻿@using Mango.Areas.Admin.ViewModels.Product
+@model ProductDetailsVM
+
+
+<div class="col-lg-12 grid-margin ">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Product Details</h4>
+        </div>
+        <div class="table-responsive">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Title</th>
+                        <th>Price</th>
+                        <th>RefCode</th>
+                        <th>Color</th>
+                        <th>Size</th>
+                        <th>Description</th>
+                        <th>Material</th>
+                        <th>MaterialIcon</th>
+                        <th>ProductSubCategory</th>
+                        <th>Photos</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>@Model.Id</td>
+                        <td>@Model.Title</td>
+                        <td>@Model.Price</td>
+                        <td>@Model.RefCode</td>
+                        <td>@Model.Color</td>
+                        <td>@Model.Size</td>
+                        <td>@Model.Description</td>
+                        <td>@Model.Material</td>
+                        <td>@Model.MaterialIcon</td>
+                        <td>@Model.ProductSubCategoryId</td>
+                        <td>
+                            @foreach (var photo in Model.Photos)
+                            {
+                                <img src="~/assets/img/@photo.Name" />
+                            }
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <a asp-action="index" asp-controller="product" class="btn btn-info">Cancel</a>
+        </div>
+    </div>
+</div>

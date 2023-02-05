@@ -1,0 +1,219 @@
+﻿@using Mango.ViewModels.Sale
+@using Mango.Constants
+@model SaleIndexVM
+@{
+    string filter = ViewBag.Filter;
+}
+<style>
+    .pagination {
+        display: inline-block;
+    }
+
+        .pagination a {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+        }
+
+            .pagination a.active {
+                background-color: black;
+                color: white;
+            }
+
+            .pagination a:hover:not(.active) {
+                background-color: #ddd;
+            }
+</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<div class="sale-container">
+
+    <div class="sale-head-container">
+        <p>@(filter?.ToUpper())</p>
+    </div>
+
+    <div id="mainButton">
+
+        <form method="get" asp-action="index" asp-controller="sale">
+
+            <div class="btn-text" onclick="openForm()"><img src="~/assets/images/filter.png"><p>Filter</p> </div>
+            <div class="modal">
+                <div class="close-button" onclick="closeForm()">x</div>
+                <div class="form-title">Filter</div>
+                <div class="input-group">
+                    <input asp-for="Title" type="text" onblur="checkInput(this)" />
+                    <label asp-for="Title" for="name">Title</label>
+                </div>
+
+                <div class="input-group">
+                    <input asp-for="RefCode" type="text" onblur="checkInput(this)" />
+                    <label asp-for="RefCode" for="refcode">Ref-Code</label>
+                </div>
+
+                <div class="priceinput">
+                    <div style="width:100px" class="input-group">
+                        <label asp-for="MinPrice" for="MinPrice">MinPrice</label>
+                        <input asp-for="MinPrice" for="MinPrice" class="form-control" />
+                    </div>
+
+                    <div style="width:100px" class="input-group">
+                        <label asp-for="MaxPrice" for="MaxPrice">MaxPrice</label>
+                        <input asp-for="MaxPrice" for="MaxPrice" class="form-control" />
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <label asp-for="SubCategoryId" for="Category"></label>
+                    <select asp-for="SubCategoryId" for="Category" asp-items="@(new SelectList(Model.ProductSubCategories,"Id","Title"))">
+                        <option value="null" selected>Choose Category</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label asp-for="SizeId" for="Size">Size</label>
+                    <select asp-for="SizeId" for="Size" asp-items="@(new SelectList(Model.Sizes,"Id","Name"))">
+                        <option value="null" selected>Choose Size</option>
+                    </select>
+                </div>
+                <input type="hidden" value="@filter" name="filter" />
+
+                <p class="emptyinput"></p>
+
+                <div class="input-group">
+                    
+                </div>
+
+                <p class="emptyinput"></p>
+
+                <div class="form-button" onclick="closeForm()">
+                    <button type="submit" style="font-size:17px;background:none;color: white;border: none;font-weight: 600;cursor:pointer;padding: 0.5rem 8rem">
+                        Filter
+                    </button>
+
+                </div>
+            </div>
+
+        </form>
+
+    </div>
+
+    <div class="sliders">
+
+        @{
+            @if (Model.Products != null)
+            {
+                @foreach (var product in Model.Products)
+                {
+                    <div class="slider">
+                        <a asp-action="details" asp-controller="sale" asp-route-id="@product.Id">
+
+                            @foreach (var photo in product.ProductPhotos)
+                            {
+                                <div class="slide">
+
+                                    <img src="~/assets/img/@photo.Name" alt="">
+
+                                </div>
+
+                            }
+
+
+                        </a>
+
+                        <div class="slide-div">
+                            <div class="slide-div1">
+                                <p>@product.Title</p>
+                                <p>$@product.Price </p>
+                            </div>
+
+                            <div id="slide-div3">
+                                <div style="cursor:pointer" id="heartimg">
+                                    <a style="color:black" class="add-to-favourites" asp-action="AddToFavourites" asp-controller="product" asp-route-productId="@product.Id">
+                                        <i style="font-size:20px;" class="heart-icon fa-regular fa-heart"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <button class="slider__btn slider__btn--left">&#10094;</button>
+                        <button class="slider__btn slider__btn--right">&#10095;</button>
+                        <div class="dots"></div>
+
+                        <div class="addbag-con">
+                            @*  <select class="choose-size" style="margin-left: -58px;height:31px" asp-for="SizeId" asp-items="@(new SelectList(Model.Sizes,"Id","Name"))">
+                <option value="1">Option 1</option>
+                <option value="2">Option 2</option>
+                <option value="3">Option 3</option>
+                </select>*@
+
+                            <div class="addbag">
+                                <a style="border-bottom:none; text-decoration:none" class="add-to-basket" asp-action="addtobasket" asp-controller="product" asp-route-productId="@product.Id">
+                                    <p style="color:aliceblue">Add to Shopping Bag</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                }
+            }
+        }
+
+    </div>
+
+    
+
+
+
+    <div style="width:100%; display:flex; justify-content:center;padding: 1rem 0">
+        <div class="pagination" style="">
+            @if (Model.Products.HasPrevious)
+            {
+                <a asp-action="index" asp-route-page="@(Model.Products.ActivePage-1)" asp-route-filter="@filter?.ToLower()">&laquo;</a>
+            }
+            @for (int i = 1; i <= Model.Products.TotalPageCount; i++)
+            {
+                <a class="@(Model.Products.ActivePage == i ? "active" : "")" asp-action="index" asp-route-filter="@filter?.ToLower()" asp-route-page="@i">@i</a>
+            }
+
+            @if (Model.Products.HasNext)
+            {
+                <a asp-action="index" asp-route-page="@(Model.Products.ActivePage+1)" asp-route-filter="@filter?.ToLower()">&raquo;</a>
+            }
+        </div>
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+<script>
+    var button = document.getElementById('mainButton');
+
+    var openForm = function () {
+        button.className = 'active';
+    };
+
+    var checkInput = function (input) {
+        if (input.value.length > 0) {
+            input.className = 'active';
+        } else {
+            input.className = '';
+        }
+    };
+
+    var closeForm = function () {
+        button.className = '';
+    };
+
+    document.addEventListener("keyup", function (e) {
+        if (e.keyCode == 27 || e.keyCode == 13) {
+            closeForm();
+        }
+    });
+</script>

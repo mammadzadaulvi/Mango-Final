@@ -1,0 +1,408 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Mango
+build_property.RootNamespace = Mango
+build_property.ProjectDir = C:\Users\user\Desktop\nese3\Mango-App-main\Mango\Mango\Mango\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\nese3\Mango-App-main\Mango\Mango\Mango
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeIntro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUludHJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeIntro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUludHJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeIntro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUludHJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeIntro/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUludHJvXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeOtherLine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU90aGVyTGluZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeOtherLine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU90aGVyTGluZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeOtherLine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU90aGVyTGluZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomeOtherLine/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZU90aGVyTGluZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomePromote/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVByb21vdGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomePromote/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVByb21vdGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomePromote/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVByb21vdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/HomePromote/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVByb21vdGVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidIntro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkSW50cm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidIntro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkSW50cm9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidIntro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkSW50cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidIntro/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkSW50cm9cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidOtherLine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkT3RoZXJMaW5lXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidOtherLine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkT3RoZXJMaW5lXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidOtherLine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkT3RoZXJMaW5lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidOtherLine/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkT3RoZXJMaW5lXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidPromote/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkUHJvbW90ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidPromote/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkUHJvbW90ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidPromote/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkUHJvbW90ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/KidPromote/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcS2lkUHJvbW90ZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenIntro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuSW50cm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenIntro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuSW50cm9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenIntro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuSW50cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenIntro/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuSW50cm9cVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenOtherLine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuT3RoZXJMaW5lXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenOtherLine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuT3RoZXJMaW5lXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenOtherLine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuT3RoZXJMaW5lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenOtherLine/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuT3RoZXJMaW5lXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenPromote/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuUHJvbW90ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenPromote/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuUHJvbW90ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenPromote/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuUHJvbW90ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/MenPromote/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWVuUHJvbW90ZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductCategory/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdENhdGVnb3J5XFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductSubCategory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFN1YkNhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductSubCategory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFN1YkNhdGVnb3J5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductSubCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFN1YkNhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/ProductSubCategory/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFN1YkNhdGVnb3J5XFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Product/UpdatePhoto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxVcGRhdGVQaG90by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenIntro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbkludHJvXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenIntro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbkludHJvXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenIntro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbkludHJvXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenIntro/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbkludHJvXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenOtherLine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbk90aGVyTGluZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenOtherLine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbk90aGVyTGluZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenOtherLine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbk90aGVyTGluZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenOtherLine/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlbk90aGVyTGluZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenPromote/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlblByb21vdGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenPromote/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlblByb21vdGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenPromote/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlblByb21vdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/TeenPromote/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGVlblByb21vdGVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenIntro/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5JbnRyb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenIntro/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5JbnRyb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenIntro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5JbnRyb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenIntro/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5JbnRyb1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenMangoGirl/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5NYW5nb0dpcmxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenMangoGirl/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5NYW5nb0dpcmxcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenMangoGirl/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5NYW5nb0dpcmxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenMangoGirl/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5NYW5nb0dpcmxcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenOtherLine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5PdGhlckxpbmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenOtherLine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5PdGhlckxpbmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenOtherLine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5PdGhlckxpbmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenOtherLine/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5PdGhlckxpbmVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenPromote/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5Qcm9tb3RlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenPromote/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5Qcm9tb3RlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenPromote/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5Qcm9tb3RlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/WomenPromote/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV29tZW5Qcm9tb3RlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Kid/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2lkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Men/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Product/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Product/Favorites.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxGYXZvcml0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Sale/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Sale/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Shared/_MangoGirlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYW5nb0dpcmxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Teen/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVlblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/Women/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29tZW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/nese3/Mango-App-main/Mango/Mango/Mango/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

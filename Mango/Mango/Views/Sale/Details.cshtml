@@ -1,0 +1,326 @@
+﻿@using Mango.ViewModels.Sale
+@model SaleDetailsVM
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<div class="product-container">
+    <section class="section-gallery">
+        <div class="gallery-grid">
+            @{
+
+                        @foreach (var photo in Model.ProductPhotos.Take(4))
+                {
+                            <div class="gallery-item">
+                                <img src="~/assets/img/@photo.Name" alt="Lorem Picsum photo 1">
+
+                                <div class="gallery-item-text" data-url="https://picsum.photos/id/756/600/400"></div>
+
+                            </div>
+                }
+
+            }
+
+
+
+
+            @*<div class="gallery-item">
+            <img src="~/assets/images/sale-w-2.png" alt="Lorem Picsum photo 2">
+            <div class="gallery-item-text" data-url="https://picsum.photos/id/1015/600/400"></div>
+            </div>
+
+            <div class="gallery-item">
+            <img src="~/assets/images/sale-w-3.png" alt="Lorem Picsum photo 3">
+            <div class="gallery-item-text" data-url="https://picsum.photos/id/1043/600/400"></div>
+            </div>
+
+            <div class="gallery-item">
+            <img src="~/assets/images/sale-w-4.png" alt="Lorem Picsum photo 4">
+            <div class="gallery-item-text" data-url="https://picsum.photos/id/164/600/400"></div>
+            </div>*@
+
+            <!-- <div class="gallery-item">
+                <img src="https://picsum.photos/id/385/300/200" alt="Lorem Picsum photo 5">
+                <div class="gallery-item-text" data-url="https://picsum.photos/id/385/600/400"></div>
+            </div>
+
+            <div class="gallery-item">
+                <img src="https://picsum.photos/id/392/300/200" alt="Lorem Picsum photo 6">
+                <div class="gallery-item-text" data-url="https://picsum.photos/id/392/600/400"></div>
+            </div> -->
+
+        </div>
+
+        <div class="buy-section-container">
+            <div class="buy-section-container2">
+                <div class="buy-section">
+                    <div class="buy-head">
+                        <div class="buy-h1">
+                            @Model.Title
+                        </div>
+                        <div class="buy-price">
+                            US $@Model.Price
+                        </div>
+                    </div>
+                    <div class="buy-ref">
+                        @Model.RefCode
+                    </div>
+
+                    <div class="color-section">
+                        <div class="colors">
+                            <div style="background-color: @Model.Color" class="color-camel"></div>
+                            @*<div class="color-brown"></div>
+                            <div class="color-grey"></div>*@
+                        </div>
+                        <div class="color-text">
+                            @Model.Color
+                        </div>
+                    </div>
+                    <hr />
+                    <div style="padding:1rem 0rem">
+                        <p>@Model.Description</p>
+                    </div>
+
+                    <select class="choose-size"  asp-for="SizeId" asp-items="@(new SelectList(Model.Sizes,"Id","Name"))">
+@*                        <option value="1">Option 1</option>
+                        <option value="2">Option 2</option>
+                        <option value="3">Option 3</option>*@
+                    </select>
+
+                    <div class="shopping-section">
+                        <div class="shopping-bag">
+                            <a style="border-bottom:none;text-decoration:none" class="add-to-basket" asp-action="addtobasket" asp-controller="product" asp-route-productId="@Model.Id">
+                                <p style="color:aliceblue">Add to Shopping Bag</p>
+                            </a>
+                        </div>
+                        <div class="shopping-wish">
+                            <a asp-action="addtofavourites" class="add-to-favourites" asp-controller="product" asp-route-productid="@Model.Id">
+                                <i style="font-size:20px;color:white" class="heart-icon fa-regular fa-heart"></i>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div class="shopping-ext">
+                        <div class="s-ext">
+                            <div>
+                                <img class="ext-icon" src="~/assets/images/time.png">
+                                <p>Delivery and returns</p>
+                            </div>
+                            <div>
+                                <img class="ext-icon" src="~/assets/images/location.png">
+                                <p>Store availability</p>
+                            </div>
+                        </div>
+                        <div class="s-ext">
+                            <div>
+                                <img class="ext-icon" src="~/assets/images/tshirt.png">
+                                <p>Details</p>
+                            </div>
+                            <div>
+                                <img class="ext-icon" src="~/assets/images/sign-out.png">
+                                <p>Share</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="desc-mat-container">
+        <div class="desc-mat">
+            <div class="desc-part">
+                <div class="desc-h1">
+                    DESCRIPTION
+                </div>
+                <div class="desc-p">
+                    @Model.Description
+                </div>
+            </div>
+            <div class="mat-part">
+                <div>
+                    <div class="desc-h1">
+                        MATERIAL AND WASHING INSTRUCTIONS
+                    </div>
+                    <div class="desc-p">
+                        Composition: 50% viscose, @Model.Material
+                    </div>
+                    <div class="ext-icons">
+                        <img class="ext-icon" src="~/assets/images/@Model.MaterialIcon">
+                        <img class="ext-icon" src="~/assets/images/ext2.png">
+                        <img class="ext-icon" src="~/assets/images/ext3.png">
+                        <img class="ext-icon" src="~/assets/images/ext4.png">
+                        <img class="ext-icon" src="~/assets/images/ext5.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Lightbox -->
+    <div class="lightbox preload">
+        <div class="lb-content">
+            <!-- You may put a loader gif or svg here for starters -->
+            <img class="lb-img" src="/img/loader.svg" alt="lightbox image">
+            <div class="lb-caption">
+                <!-- <a class="lb-url" href="" rel="noopener" target="_blank">Link to Site &rarr;</a> -->
+                <a class="lb-url" href="" rel="noopener" target="_blank"></a>
+                <div class="lb-text"></div>
+            </div>
+            <a href="#" class="close">&times;</a>
+        </div>
+    </div>
+
+
+
+    <div class="carousel-container">
+        <h3 style="margin-bottom: 6px;">In the same style</h3>
+        <div class="inner-carousel">
+            <div class="track">
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card-container">
+                    <div class="card card1">
+                        <img class="prod-wish" src="~/assets/images/love.png">
+                    </div>
+                    <div class="prod-exp">
+                        <div>
+                            Oversize wool coat
+                        </div>
+                        <div>
+                            US$169.99
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="direct">
+                <button class="prev"><img src="~/assets/images/left-arrow.png"></button>
+                <button class="next"><img src="~/assets/images/right-arrow.png"></button>
+            </div>
+        </div>
+    </div>
+    <div class="xett"></div>
+</div>

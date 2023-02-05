@@ -1,0 +1,96 @@
+﻿@using Mango.ViewModels.Women
+@model WomenIndexVM
+
+<div class="women-container">
+
+    @if (Model.WomenIntro != null)
+    {
+
+        <div style="background-image: url(/assets/img/@Model.WomenIntro.PhotoPath);" class="head-image">
+            <div style="display:flex; flex-direction:column">
+                <div>@Model.WomenIntro.Title</div>
+                <a href="@Model.WomenIntro.Url" class="custom-btn img-word-p">
+                    Discover more
+                </a>
+            </div>
+        </div>
+    }
+
+
+
+    <div class="ordinal1">
+
+        @foreach (var womenPromote in Model.WomenPromotes)
+        {
+            <div class="or1-image" style="background-image: url(/assets/img/@womenPromote.PhotoPath);">
+                <div class="word-con">
+                    <div class="img-word-h">
+                        @womenPromote.Title
+                    </div>
+                    <a href="@womenPromote.Url" class="img-word-p">
+                        Discover more
+                    </a>
+                    <div class="word-line"></div>
+                </div>
+            </div>
+
+        }
+
+
+    </div>
+
+    <div class="promotion">
+        FINAL CLEARANCE | Up to 70% off Shop now
+    </div>
+    <div class="girls">
+        <div class="mangogirls">
+            #MANGOGIRLS
+        </div>
+        <div class="mangogirls-imgs" >
+
+            <div id="mangogirlss" class="girls-con">
+
+                @foreach (var mangoGirl in Model.WomenMangoGirls)
+                {
+
+                    <div class="mangogirls-img"><a href="@mangoGirl.Url"><img class="mgirl" alt="" src="~/assets/img/@mangoGirl.PhotoPath"></a></div>
+
+                }
+
+                @*<div class="mangogirls-img"><img class="mgirl" alt="" src="~/assets/images/w-10.png"></div>
+                <div class="mangogirls-img"><img class="mgirl" alt="" src="~/assets/images/w-11.png"></div>
+                <div class="mangogirls-img"><img class="mgirl" alt="" src="~/assets/images/w-12.png"></div>
+                <div class="mangogirls-img"><img class="mgirl" alt="" src="~/assets/images/w-13.png"></div>
+                <div class="mangogirls-img"><img class="mgirl" alt="" src="~/assets/images/w-11.png"></div>*@
+
+            </div>
+        </div>
+        <div class="dis-con">
+            <button type="submit" id="loadMore">
+                <a style="list-style:none; color: white;" href="https://shop.mango.com/us/women">Discover more</a>
+                
+            </button>
+        </div>
+    </div>
+    <div class="other">
+        <div class="otherlines">
+            Our Other Lines
+        </div>
+        <div class="other-imgs">
+            @foreach (var otherLine in Model.WomenOtherLines)
+            {
+                <div class="other-img-1" style="background-image: url(../assets/img/@otherLine.PhotoPath)">
+                    <a href="@otherLine.Url" class="custom-btn line-button">@otherLine.Title</a>
+                </div>
+            }
+
+        </div>
+    </div>
+    <div class="xett"></div>
+</div>
+
+@section Scripts{
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script src="~/assets/script.js"></script>
+}
+

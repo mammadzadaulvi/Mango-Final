@@ -1,0 +1,311 @@
+﻿@inject Mango.Helpers.LayoutService service
+@{
+
+    int count = service.GetBasketItemsCount();
+    int favouriteItemsCount = service.GetFavouriteItemsCount();
+}
+
+<ENCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="~/assets/style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+        <link href="//db.onlinewebfonts.com/c/28cd2d1c6f94e83a67d26c546c20ff66?family=MangoSans" rel="stylesheet"
+              type="text/css" />
+        @*    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">*@
+        <link rel="shortcut icon" href="~/assets/images/letter-m.png">
+        <script src="~/assets/script.js" defer></script>
+        <title>Mango</title>
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <nav>
+                <section class="navigation-container">
+                    <input type="radio" name="slider" id="menu-btn">
+                    <input type="radio" name="slider" id="close-btn">
+                    <ul class="nav-links">
+                        <label for="close-btn" class="btn close-btn"><i class="fas fa-times"></i></label>
+                        <li>
+                            <a asp-action="index" asp-controller="women" class="desktop-item">Women</a>
+                            <input type="checkbox" id="showWomen">
+                            <label for="showWomen" class="mobile-item">Women</label>
+                            <div class="mega-box">
+                                <div class="content">
+                                    <div class="row">
+
+                                        <header><b><a asp-action="index" asp-controller="women">Main Page</a></b></header>
+                                        <header><a asp-action="index" asp-controller="sale" asp-route-filter="women">Go Shopping</a></header>
+                                        <ul class="mega-links">
+                                        </ul>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <img src="./assets/images/nav-w.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a asp-action="index" asp-controller="men" class="desktop-item">Men</a>
+                            <input type="checkbox" id="showMen">
+                            <label for="showMen" class="mobile-item">Men</label>
+                            <div class="mega-box">
+                                <div class="content">
+                                    <div class="row">
+
+                                        <header><b><a asp-action="index" asp-controller="men">Main Page</a></b></header>
+                                        <header><a asp-action="index" asp-controller="sale" asp-route-filter="men">Go Shopping</a></header>
+                                        <ul class="mega-links">
+                                        </ul>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <img src="./assets/images/nav-m.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a asp-action="index" asp-controller="teen" class="desktop-item">Teen</a>
+                            <input type="checkbox" id="showTeen">
+                            <label for="showTeen" class="mobile-item">Teen</label>
+                            <div class="mega-box">
+                                <div class="content">
+                                    <div class="row">
+
+                                        <header><b><a asp-action="index" asp-controller="teen">Main Page</a></b></header>
+                                        <header><a asp-action="index" asp-controller="sale" asp-route-filter="teen">Go Shopping</a></header>
+                                        <ul class="mega-links">
+                                        </ul>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <img src="./assets/images/nav-t.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a asp-action="index" asp-controller="kid" class="desktop-item">Kid</a>
+                            <input type="checkbox" id="showKids">
+                            <label for="showKids" class="mobile-item">Kid</label>
+                            <div class="mega-box">
+                                <div class="content">
+                                    <div class="row">
+
+                                        <header><b><a asp-action="index" asp-controller="kid">Main Page</a></b></header>
+                                        <header><a asp-action="index" asp-controller="sale" asp-route-filter="kids">Go Shopping</a></header>
+                                        <ul class="mega-links">
+                                        </ul>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <img src="./assets/images/nav-k.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li>
+                            <a asp-action="index" asp-controller="home" class="desktop-item">Home</a>
+                            <input type="checkbox" id="showHome">
+                            <label for="showHome" class="mobile-item">Home</label>
+                            <div class="mega-box">
+                                <div class="content">
+                                    <div class="row">
+
+                                        <header><b><a asp-action="index" asp-controller="home">Main Page</a></b></header>
+                                        <header><a asp-action="index" asp-controller="sale" asp-route-filter="home">Go Shopping</a></header>
+                                        <ul class="mega-links">
+                                        </ul>
+
+                                    </div>
+
+                                    <div class="row">
+                                        <img src="./assets/images/nav-m.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                    </ul>
+
+                    <div class="logocen">
+                        <a asp-action="index" asp-controller="home">
+                            <img id="logoimg" src="~/assets/images/mango.svg">
+                        </a>
+                    </div>
+
+                    <label for="menu-btn" class="btn menu-btn"><i class="fas fa-bars"></i></label>
+                    <div class="logo">
+                        <!-- <a href="#"> -->
+                        <div class="log-con">
+                            <div style="display:none;">
+                                <a href="./login.html">
+                                    @*<img class="logoss" src="~/assets/images/loupe.png">*@
+                                    <div style="width: 30px; height:30px;">
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+
+
+                        @if (!User.Identity.IsAuthenticated)
+                        {
+                            <div class="log-con">
+                                <div>
+                                    <a asp-action="login" asp-controller="account">
+                                        <img class="logoss" src="~/assets/images/login.png">
+                                    </a>
+                                    <p>Sign in</p>
+                                </div>
+                            </div>
+                        }
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <div class="log-con">
+                                <div style="display:flex;flex-direction:column;justify-content: space-around;height: 55px;align-items:center">
+                                    @*<img class="logoss" src="~/assets/images/login.png">*@
+                                    <span style="color:black; font-weight:bold; line-height:11px">@User.Identity.Name</span>
+                                    <a asp-action="logout" asp-controller="account" style="color:black; font-size:11px">Logout</a>
+                                </div>
+                            </div>
+                        }
+
+
+
+                        <div class="log-con">
+                            <div style="
+    right: 85px;
+    position: absolute;
+    top: 21%;
+    background-color: red;
+    width: 17px;
+    height: 16px;
+    border-radius: 50%;
+">
+                                <span class="favourite-item-count" style="right: 4px;font-size: 12px;color: white;position: absolute;top: 7px;">@favouriteItemsCount</span>
+                            </div>
+                            <div>
+                                <a asp-action="favorites" asp-controller="product">
+                                    <img class="logoss" src="~/assets/images/love.png">
+                                </a>
+                                <p>Wishlist</p>
+                            </div>
+                        </div>
+                        <div class="log-con">
+                            <div style="
+    right: 20px;
+    position: absolute;
+    top: 21%;
+    background-color: red;
+    width: 17px;
+    height: 16px;
+    border-radius: 50%;
+">
+                                <span class="basket-count" style="right: 4px;font-size: 12px;color: white;position: absolute;top: 7px;">@count</span>
+                            </div>
+                            <div>
+                                @if (User.Identity.IsAuthenticated)
+                                {
+                                    <a asp-action="checkout" asp-controller="product">
+                                        <img style="margin-left: 8px;" class="logoss" src="~/assets/images/shop-bag.png">
+                                    </a>
+                                }
+                                else
+                                {
+                                    <a asp-action="login" asp-controller="account">
+                                        <img style="margin-left: 8px;" class="logoss" src="~/assets/images/shop-bag.png">
+                                    </a>
+                                }
+                                <p>Shop bag</p>
+                            </div>
+                        </div>
+                        <!-- </a> -->
+                    </div>
+
+                </section>
+            </nav>
+
+
+
+            @RenderBody();
+
+
+
+            <footer>
+                <div class="footin">
+                    <div class="subs-con">
+                        <div class="subscribe">
+                            <div class="sub-head">
+                                Receive exclusive promotions, private sales and news
+                            </div>
+                            <br>
+                            <div class="email">
+                                <input placeholder="Enter your e-mail">
+                            </div>
+                            <br>
+                            <div class="sub-div">
+                                <button class="subs-button">
+                                    Subscribe
+                                </button>
+                            </div>
+                            <br>
+                            <div class="sub-foot">
+                                By subscribing, you agree to our Privacy Policy and Promotion conditions.
+                            </div>
+                        </div>
+                        <div class="foot-words-con">
+                            <div class="foot-words">
+                                <p>Help</p>
+                                <p>My Puchases</p>
+                                <p>Returns</p>
+                                <p>Stores</p>
+                                <p>Apps</p>
+                                <p>Company</p>
+                                <p>Franchises</p>
+                                <p>Affiliate</p>
+                                <p>Work for Mango</p>
+                                <p>Press</p>
+                                <p>Site Map</p>
+                                <p>Sustainability</p>
+                            </div>
+
+                        </div>
+
+                        <div class="foot-icons">
+                            <img class="foot-icon" src="./assets/images/social-facebook.png">
+                            <img class="foot-icon" src="./assets/images/social-twitter.png">
+                            <img class="foot-icon" src="./assets/images/social-instagram.png">
+                            <img class="foot-icon" src="./assets/images/social-pinterest.png">
+                            <img class="foot-icon" src="./assets/images/social-spotify.png">
+                            <img class="foot-icon" src="./assets/images/social-youtube.png">
+                            <img class="foot-icon" src="./assets/images/social-foursquare.png">
+                        </div>
+
+                        <div class="last-words">
+                            © 2022 MANGO All rights reserved Privacy Policy | Terms & Conditions | ADA
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        @RenderSection("Scripts", false);
+
+    </body>
+
+</html>

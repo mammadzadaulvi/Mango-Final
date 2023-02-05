@@ -1,0 +1,92 @@
+﻿@using Mango.ViewModels.Kid
+@model KidIndexVM
+
+<div class="kid-container">
+
+    @if (Model.KidIntro != null)
+    {
+        <div style="background-image: url(/assets/img/@Model.KidIntro.PhotoPath);" class="head-image">
+            <div style="display:flex; flex-direction:column">
+                <div>@Model.KidIntro.Title</div>
+                <a href="@Model.KidIntro.Url" class="custom-btn img-word-p">
+                    Discover more
+                </a>
+            </div>
+        </div>
+
+    }
+
+
+    <div class="ordinal1">
+
+        @foreach (var kidPromote in Model.KidPromotes)
+        {
+            <div class="or1-image" style="background-image: url(/assets/img/@kidPromote.PhotoPath);">
+                <div class="word-con">
+                    <div class="img-word-h">
+                        @kidPromote.Title
+                    </div>
+                    <div class="img-word-p">
+                        Discover more
+                    </div>
+                    <div class="word-line"></div>
+                </div>
+            </div>
+
+        }
+
+        @*<div class="or1-image" style="background-image: url(../assets/images/k-3.png);">
+        <div class="word-con">
+        <div class="img-word-h">
+        Pants
+        </div>
+        <div class="img-word-p">
+        Discover more
+        </div>
+        <div class="word-line"></div>
+        </div>
+        </div>
+        <div class="or1-image" style="background-image: url(../assets/images/k-3.png);">
+        <div class="word-con">
+        <div class="img-word-h">
+        Pants
+        </div>
+        <div class="img-word-p">
+        Discover more
+        </div>
+        <div class="word-line"></div>
+        </div>
+        </div>*@
+    </div>
+
+    <div class="promotion">
+        FINAL CLEARANCE | Up to 70% off Shop now
+    </div>
+
+    <div class="other">
+        <div class="otherlines">
+            Our Other Lines
+        </div>
+        <div class="other-imgs">
+
+            @foreach (var koLine in Model.KidOtherLines)
+            {
+                <div style="background-image: url(/assets/img/@koLine.PhotoPath);" class="other-img-1">
+                    <a class="line-button custom-btn">@koLine.Title</a>
+                </div>
+            }
+
+
+            @*<div style="background-image: url(../assets/images/m-10.png);" class="other-img-1">
+            <button class="line-button">KIDS</button>
+            </div>
+            <div style="background-image: url(../assets/images/m-10.png);" class="other-img-1">
+            <button class="line-button">TEEN</button>
+            </div>
+            <div style="background-image: url(../assets/images/m-10.png);" class="other-img-1">
+            <button class="line-button">HOME</button>
+            </div>*@
+        </div>
+    </div>
+    <div class="xett"></div>
+</div>

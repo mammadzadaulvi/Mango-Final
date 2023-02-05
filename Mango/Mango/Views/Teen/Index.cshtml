@@ -1,0 +1,92 @@
+﻿@using Mango.ViewModels.Teen
+@model TeenIndexVM
+
+<div class="teen-container">
+
+    @if (Model.TeenIntro != null)
+    {
+        <div style="background-image: url(/assets/img/@Model.TeenIntro.PhotoPath);" class="head-image">
+            <div style="display:flex; flex-direction:column">
+                <div>@Model.TeenIntro.Title</div>
+                <a href="@Model.TeenIntro.Url" class="custom-btn img-word-p">
+                    Discover more
+                </a>
+            </div>
+        </div>
+    }
+
+
+    <div class="ordinal1">
+
+        @foreach (var teenPromote in Model.TeenPromotes)
+        {
+            <div style="background-image: url(/assets/img/@teenPromote.PhotoPath);" class="or1-image">
+                <div class="word-con">
+                    <div class="img-word-h">
+                        @teenPromote.Title
+                    </div>
+                    <div class="img-word-p">
+                        Discover more
+                    </div>
+                    <div class="word-line"></div>
+                </div>
+            </div>
+
+        }
+
+
+        @*<div style="background-image: url(../assets/images/t-1.png);" class="or1-image">
+        <div class="word-con">
+        <div class="img-word-h">
+        Pants
+        </div>
+        <div class="img-word-p">
+        Discover more
+        </div>
+        <div class="word-line"></div>
+        </div>
+        </div>
+        <div style="background-image: url(../assets/images/t-1.png);" class="or1-image">
+        <div class="word-con">
+        <div class="img-word-h">
+        Pants
+        </div>
+        <div class="img-word-p">
+        Discover more
+        </div>
+        <div class="word-line"></div>
+        </div>
+        </div>*@
+
+    </div>
+    <div class="promotion">
+        FINAL CLEARANCE | Up to 70% off Shop now
+    </div>
+
+    <div class="other">
+        <div class="otherlines">
+            Our Other Lines
+        </div>
+        <div class="other-imgs">
+
+            @foreach (var toLine in Model.TeenOtherLines)
+            {
+                <div style="background-image: url(/assets/img/@toLine.PhotoPath);" class="other-img-1">
+                    <a class="custom-btn line-button">@toLine.Title</a>
+                </div>
+
+            }
+
+            @* <div style="background-image: url(../assets/images/m-10.png);" class="other-img-1">
+            <button class="line-button">KIDS</button>
+            </div>
+            <div style="background-image: url(../assets/images/m-10.png);" class="other-img-1">
+            <button class="line-button">TEEN</button>
+            </div>
+            <div style="background-image: url(../assets/images/m-10.png);" class="other-img-1">
+            <button class="line-button">HOME</button>
+            </div>*@
+        </div>
+    </div>
+    <div class="xett"></div>
+</div>

@@ -1,0 +1,27 @@
+﻿@using Mango.ViewModels.Women
+@model MangoGirlLoadMoreVM
+
+
+@foreach (var mangoGirl in Model.WomenMangoGirls)
+{
+
+    <div class="mangogirls-img"><img class="mgirl" alt="" src="~/assets/img/@mangoGirl.PhotoPath"></div>
+
+}
+
+
+
+
+
+
+@if (Model.IsLast)
+{
+    <script type="text/javascript">
+        jQuery(document).ready((function ($) {
+            function myFunc() {
+                $("#loadMore").remove();
+            }
+            myFunc();
+        }))
+    </script>
+}

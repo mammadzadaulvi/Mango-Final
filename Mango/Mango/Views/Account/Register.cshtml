@@ -1,0 +1,55 @@
+﻿@using Mango.ViewModels.Account
+@model AccountRegisterVM
+
+<section class="login-container">
+    <div class="form-container">
+        <div class="slide-controls">
+            @*<input type="radio" name="slide" id="login" checked>*@
+            <input type="radio" name="slide" id="signup" checked>
+            @*<label for="login" class="slide login">Login</label>*@
+            <label for="signup" class="slide signup" style="margin-left: 80px">Sign up</label>
+            <div class="slider-tab"></div>
+        </div>
+        <div class="form-inner">
+            <form class="signup" method="post" asp-action="register" asp-controller="account">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="field">
+                    <input asp-for="Fullname" type="text" placeholder="Fulllname" required>
+                    <span asp-validation-for="Fullname"></span>
+                </div>
+                <div class="field">
+                    <input asp-for="Email" type="text" placeholder="Email Address" required>
+                    <span asp-validation-for="Email"></span>
+                </div>
+                <div class="field">
+                    <input asp-for="Username" type="text" placeholder="Username" required>
+                    <span asp-validation-for="Username"></span>
+                </div>
+                <div class="field">
+                    <input asp-for="Password" type="password" placeholder="Password" required>
+                    <span asp-validation-for="Password"></span>
+                </div>
+                <div class="field">
+                    <input asp-for="ConfirmPassword" type="password" placeholder="Repeat password" required>
+                    <span asp-validation-for="ConfirmPassword"></span>
+                </div>
+                <div class="field btn" style="display:flex; justify-content:center">
+                    @*<div class="btn-layer"></div>*@
+                    <button type="submit" style="
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 0.8rem 5rem;
+    border-radius: 0px 0px 0px 0px;
+cursor:pointer
+">
+                        Sign Up
+                    </button>
+                </div>
+                <div class="signin-warning">
+                    Do you have an account &nbsp; <a asp-action="login" asp-controller="account" style="text-decoration:none; color:black">Sign in</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>

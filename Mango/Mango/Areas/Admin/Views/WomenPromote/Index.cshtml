@@ -1,0 +1,77 @@
+﻿@using Mango.Areas.Admin.ViewModels.WomenPromote
+@model WomenPromoteIndexVM
+
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Women Promote</h4>
+                        <a class="btn btn-primary" asp-action="create" asp-controller="womenpromote" asp-area="admin">CREATE Women Promote</a>
+                        <div class="table-responsive">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Title</th>
+                                        <th>Url</th>
+                                        <th>Photo</th>
+                                        <th>Actions</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var otherLine in Model.WomenPromotes)
+                                    {
+                                        <tr>
+                                            <td>@otherLine.Id</td>
+                                            <td>@otherLine.Title</td>
+                                            <td>@otherLine.Url</td>
+                                            <td>
+                                                <div style="width:150px">
+                                                    <img style="max-width:100%" src="~/assets/img/@otherLine.PhotoPath" />
+                                                </div>
+                                            </td>
+                                            <td>
+                                                <a class="btn btn-primary" asp-action="update" asp-controller="womenpromote" asp-area="admin" asp-route-id="@otherLine.Id">Update</a>
+                                                <a class="btn btn-danger" onclick="confirm('Eminsinizmi?')" asp-action="delete" asp-controller="womenpromote" asp-area="admin" asp-route-id="@otherLine.Id">Delete</a>
+                                                <a class="btn btn-info" asp-action="details" asp-controller="womenpromote" asp-area="admin" asp-route-id="@otherLine.Id">Details</a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+    <form method="get">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination justify-content-center">
+                @if (Model.WomenPromotes.HasPrevious || Model.WomenPromotes.TotalPageCount == 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="index" asp-route-page="@(Model.WomenPromotes.ActivePage-1)" tabindex="-1">Previous</a>
+                    </li>
+                }
+                @for (int i = 1; i <= Model.WomenPromotes.TotalPageCount; i++)
+                {
+                    <li class="page-item @(Model.WomenPromotes.ActivePage == i ? "active" : "")"><a class="page-link" asp-action="index" asp-route-page="@i">@i</a></li>
+                }
+                @if (Model.WomenPromotes.HasNext || Model.WomenPromotes.TotalPageCount == 1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" asp-action="index" asp-route-page="@(Model.WomenPromotes.ActivePage+1)">Next</a>
+                    </li>
+                }
+            </ul>
+        </nav>
+    </form>
+</div>

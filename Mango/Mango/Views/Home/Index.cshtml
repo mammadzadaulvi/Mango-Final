@@ -1,0 +1,50 @@
+﻿@model Mango.ViewModels.Home.HomeIndexVM
+<div class="home-container">
+
+    <div class="promotion">
+        FINAL CLEARANCE | Up to 70% off Shop now
+    </div>
+
+    <div style="background-image: url(../assets/img/@Model.HomeIntro.PhotoPath)" class="head-image">
+        <div style="display:flex; flex-direction:column">
+            <div>@Model.HomeIntro.Title</div>
+            <div>@Model.HomeIntro.Description</div>
+            <a href="@Model.HomeIntro.Url" class="custom-btn">
+                Shop now
+            </a>
+        </div>
+    </div>
+
+    <div class="ordinal2" style="padding: 5px 0px">
+        @foreach (var homePromote in Model.HomePromotes)
+        {
+            <div class="or21-image" style="padding: 5px 5px;background-image: url(../assets/img/@homePromote.PhotoPath)">
+                <div class="word-con">
+                    <div class="img-word-h">
+                        @homePromote.Title
+                    </div>
+                    <a href="@homePromote.Url" style="text-decoration:none; font-size:16px" class="img-word-p">
+                        Discover more
+                    </a>
+                    <div class="word-line"></div>
+                </div>
+            </div>
+        }
+    </div>
+
+    <div class="other">
+        <div class="otherlines">
+            Our Other Lines
+        </div>
+        <div class="other-imgs">
+            @foreach (var otherLine in Model.HomeOtherLines)
+            {
+                <div class="other-img-1" style="background-image: url(../assets/img/@otherLine.PhotoPath)">
+                    <a href="@otherLine.Url" class="line-button custom-btn">@otherLine.Title</a>
+                </div>
+            }
+           
+        </div>
+    </div>
+    <div class="xett"></div>
+</div>

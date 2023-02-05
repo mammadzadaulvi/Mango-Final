@@ -6,45 +6,19 @@
         <div class="gallery-grid">
             @{
 
-                        @foreach (var photo in Model.ProductPhotos.Take(4))
+                @foreach (var photo in Model.ProductPhotos.Take(4))
                 {
-                            <div class="gallery-item">
-                                <img src="~/assets/img/@photo.Name" alt="Lorem Picsum photo 1">
+                    <div class="gallery-item">
+                        <img src="~/assets/img/@photo.Name" alt="Lorem Picsum photo 1">
 
-                                <div class="gallery-item-text" data-url="https://picsum.photos/id/756/600/400"></div>
+                        <div class="gallery-item-text" data-url="https://picsum.photos/id/756/600/400"></div>
 
-                            </div>
+                    </div>
                 }
 
             }
 
 
-
-
-            @*<div class="gallery-item">
-            <img src="~/assets/images/sale-w-2.png" alt="Lorem Picsum photo 2">
-            <div class="gallery-item-text" data-url="https://picsum.photos/id/1015/600/400"></div>
-            </div>
-
-            <div class="gallery-item">
-            <img src="~/assets/images/sale-w-3.png" alt="Lorem Picsum photo 3">
-            <div class="gallery-item-text" data-url="https://picsum.photos/id/1043/600/400"></div>
-            </div>
-
-            <div class="gallery-item">
-            <img src="~/assets/images/sale-w-4.png" alt="Lorem Picsum photo 4">
-            <div class="gallery-item-text" data-url="https://picsum.photos/id/164/600/400"></div>
-            </div>*@
-
-            <!-- <div class="gallery-item">
-                <img src="https://picsum.photos/id/385/300/200" alt="Lorem Picsum photo 5">
-                <div class="gallery-item-text" data-url="https://picsum.photos/id/385/600/400"></div>
-            </div>
-
-            <div class="gallery-item">
-                <img src="https://picsum.photos/id/392/300/200" alt="Lorem Picsum photo 6">
-                <div class="gallery-item-text" data-url="https://picsum.photos/id/392/600/400"></div>
-            </div> -->
 
         </div>
 
@@ -78,8 +52,8 @@
                         <p>@Model.Description</p>
                     </div>
 
-                    <select class="choose-size"  asp-for="SizeId" asp-items="@(new SelectList(Model.Sizes,"Id","Name"))">
-@*                        <option value="1">Option 1</option>
+                    <select class="choose-size" asp-for="SizeId" asp-items="@(new SelectList(Model.Sizes,"Id","Name"))">
+                        @*                        <option value="1">Option 1</option>
                         <option value="2">Option 2</option>
                         <option value="3">Option 3</option>*@
                     </select>
@@ -166,160 +140,6 @@
                 <div class="lb-text"></div>
             </div>
             <a href="#" class="close">&times;</a>
-        </div>
-    </div>
-
-
-
-    <div class="carousel-container">
-        <h3 style="margin-bottom: 6px;">In the same style</h3>
-        <div class="inner-carousel">
-            <div class="track">
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-                <div class="card-container">
-                    <div class="card card1">
-                        <img class="prod-wish" src="~/assets/images/love.png">
-                    </div>
-                    <div class="prod-exp">
-                        <div>
-                            Oversize wool coat
-                        </div>
-                        <div>
-                            US$169.99
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-            <div class="direct">
-                <button class="prev"><img src="~/assets/images/left-arrow.png"></button>
-                <button class="next"><img src="~/assets/images/right-arrow.png"></button>
-            </div>
         </div>
     </div>
     <div class="xett"></div>

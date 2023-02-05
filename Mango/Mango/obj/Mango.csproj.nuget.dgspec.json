@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\nese3\\Mango-App-main\\Mango\\Mango\\Mango\\Mango.csproj": {}
+    "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\Mango.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\nese3\\Mango-App-main\\Mango\\Mango\\Mango\\Mango.csproj": {
+    "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\Mango.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\nese3\\Mango-App-main\\Mango\\Mango\\Mango\\Mango.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\Mango.csproj",
         "projectName": "Mango",
-        "projectPath": "C:\\Users\\user\\Desktop\\nese3\\Mango-App-main\\Mango\\Mango\\Mango\\Mango.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\Mango.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\nese3\\Mango-App-main\\Mango\\Mango\\Mango\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

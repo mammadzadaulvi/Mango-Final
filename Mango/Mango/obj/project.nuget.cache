@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFguhfQfkb9hf2zOdIQnIlHcK/9m12NwEz75fNY8u5DAkOtUAhS/1xh/He52oGHUsumRbBgE98WBSluIrcq7OA==",
+  "dgSpecHash": "fwa9cXLlwCtHUriRprn+3VQmSmPmchcsCIo+DI0MBaAU6PA1eNPHSWsBRVjr9olYCzj2HWaLcd0EMADpnJkhIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\nese3\\Mango-App-main\\Mango\\Mango\\Mango\\Mango.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\Mango.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8KeWcaAFH6TaSRM9JEnddwUIvsobkHEllTdhs2GlEdk=",
+  "Hash": "BsfeGDMY1YxcxqaO3N7JTwOlbZJ9U9odzeoZY7Ze6p0=",
   "Source": "Mango",
   "BasePath": "_content/Mango",
   "Mode": "Default",
@@ -32725,12 +32725,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\white-love.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\0087416c-6332-488c-9a78-fc792233bebf_t-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\02822b0f-1cc5-4ee1-bb4a-b30220296081_women8-3.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/0087416c-6332-488c-9a78-fc792233bebf_t-2.png",
+      "RelativePath": "assets/img/02822b0f-1cc5-4ee1-bb4a-b30220296081_women8-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32739,15 +32739,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\0087416c-6332-488c-9a78-fc792233bebf_t-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\02822b0f-1cc5-4ee1-bb4a-b30220296081_women8-3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\01693d1f-40c0-49fa-a0c1-9ca2ff7c50fb_sale-w-4.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\035f0b36-ff71-4892-94be-3a4e33b2c750_teen-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/01693d1f-40c0-49fa-a0c1-9ca2ff7c50fb_sale-w-4.png",
+      "RelativePath": "assets/img/035f0b36-ff71-4892-94be-3a4e33b2c750_teen-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32756,15 +32756,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\01693d1f-40c0-49fa-a0c1-9ca2ff7c50fb_sale-w-4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\035f0b36-ff71-4892-94be-3a4e33b2c750_teen-o.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\02bed5d7-de4f-41a5-9873-235ccc520c93_sale-w-1.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\03cacfea-d7f2-4629-85d6-cac098c18545_women-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/02bed5d7-de4f-41a5-9873-235ccc520c93_sale-w-1.png",
+      "RelativePath": "assets/img/03cacfea-d7f2-4629-85d6-cac098c18545_women-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32773,24 +32773,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\02bed5d7-de4f-41a5-9873-235ccc520c93_sale-w-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\087162d6-9e36-47e8-bd80-1b4fa4bb0378_w-14.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/087162d6-9e36-47e8-bd80-1b4fa4bb0378_w-14.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\087162d6-9e36-47e8-bd80-1b4fa4bb0378_w-14.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\03cacfea-d7f2-4629-85d6-cac098c18545_women-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\0a268ecf-09f8-4cab-ab1d-c55dcae2156b_t-2.png",
@@ -32810,6 +32793,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\0a268ecf-09f8-4cab-ab1d-c55dcae2156b_t-2.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\0a39e7e8-cefa-40d6-be6e-751c9681baf1_women4-4.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/0a39e7e8-cefa-40d6-be6e-751c9681baf1_women4-4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\0a39e7e8-cefa-40d6-be6e-751c9681baf1_women4-4.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\0bfe31fc-f802-4f93-9546-a133f9472aa2_m-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -32825,23 +32825,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\0bfe31fc-f802-4f93-9546-a133f9472aa2_m-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\0ca5a585-3464-4ee5-ba2e-99b0d24b9cc4_w-6.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/0ca5a585-3464-4ee5-ba2e-99b0d24b9cc4_w-6.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\0ca5a585-3464-4ee5-ba2e-99b0d24b9cc4_w-6.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\0e54a19b-7d6f-48a5-ade9-1b8655b6108b_m-3.png",
@@ -32878,12 +32861,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\12f4aa0f-9d83-480e-a250-b3acb70e56ff_m-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\166fae21-dc67-4c40-b2f3-7e96af2f438e_t-3.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\1303cda1-29cf-428a-9f1a-b767d4f775b1_kid-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/166fae21-dc67-4c40-b2f3-7e96af2f438e_t-3.png",
+      "RelativePath": "assets/img/1303cda1-29cf-428a-9f1a-b767d4f775b1_kid-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32892,7 +32875,75 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\166fae21-dc67-4c40-b2f3-7e96af2f438e_t-3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\1303cda1-29cf-428a-9f1a-b767d4f775b1_kid-o.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\13898f4f-a50f-4f27-b4ba-5d1a79d2718c_teen-o.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/13898f4f-a50f-4f27-b4ba-5d1a79d2718c_teen-o.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\13898f4f-a50f-4f27-b4ba-5d1a79d2718c_teen-o.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\151c27ab-e018-4064-92ee-ac2f91d5ffe1_z2-1.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/151c27ab-e018-4064-92ee-ac2f91d5ffe1_z2-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\151c27ab-e018-4064-92ee-ac2f91d5ffe1_z2-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\1646d0a0-ccae-4739-8000-748c9eb15bbf_Candles.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/1646d0a0-ccae-4739-8000-748c9eb15bbf_Candles.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\1646d0a0-ccae-4739-8000-748c9eb15bbf_Candles.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\16a36d35-c2e6-466d-a77b-f435a10467af_women9-4.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/16a36d35-c2e6-466d-a77b-f435a10467af_women9-4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\16a36d35-c2e6-466d-a77b-f435a10467af_women9-4.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\1aa29ed8-09b7-49ff-8632-5e13b0ac9010_w-12.png",
@@ -32912,12 +32963,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\1aa29ed8-09b7-49ff-8632-5e13b0ac9010_w-12.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\1d1cccdd-1d5f-4fd3-92df-bd368aaebde1_sale-w-4.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\1f722573-706a-4406-967d-8e677383e85e_kid-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/1d1cccdd-1d5f-4fd3-92df-bd368aaebde1_sale-w-4.png",
+      "RelativePath": "assets/img/1f722573-706a-4406-967d-8e677383e85e_kid-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32926,15 +32977,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\1d1cccdd-1d5f-4fd3-92df-bd368aaebde1_sale-w-4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\1f722573-706a-4406-967d-8e677383e85e_kid-o.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\1e1a40d7-0c02-42fa-9716-99ab200ba9ed_w-7.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\2056c7b3-f609-4c37-92f1-20fca1af9103_women7-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/1e1a40d7-0c02-42fa-9716-99ab200ba9ed_w-7.png",
+      "RelativePath": "assets/img/2056c7b3-f609-4c37-92f1-20fca1af9103_women7-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32943,15 +32994,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\1e1a40d7-0c02-42fa-9716-99ab200ba9ed_w-7.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\2056c7b3-f609-4c37-92f1-20fca1af9103_women7-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\272b4dc1-a889-4063-a824-864df05aa27a_sale-w-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\2290efc1-ad0c-4d17-b633-ae5409a413be_k-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/272b4dc1-a889-4063-a824-864df05aa27a_sale-w-2.png",
+      "RelativePath": "assets/img/2290efc1-ad0c-4d17-b633-ae5409a413be_k-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32960,15 +33011,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\272b4dc1-a889-4063-a824-864df05aa27a_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\2290efc1-ad0c-4d17-b633-ae5409a413be_k-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\2e55bc3d-a3c9-475a-96a4-9fb1655e3610_t-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\24f275b3-7673-4308-9075-2410902d4085_z4-4.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/2e55bc3d-a3c9-475a-96a4-9fb1655e3610_t-2.png",
+      "RelativePath": "assets/img/24f275b3-7673-4308-9075-2410902d4085_z4-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32977,15 +33028,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\2e55bc3d-a3c9-475a-96a4-9fb1655e3610_t-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\24f275b3-7673-4308-9075-2410902d4085_z4-4.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3150e16f-574a-437e-9d17-914a66d7d58a_sale-w-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\26fab6fd-4e0d-4dd2-9bd0-01356a387056_teen-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/3150e16f-574a-437e-9d17-914a66d7d58a_sale-w-2.png",
+      "RelativePath": "assets/img/26fab6fd-4e0d-4dd2-9bd0-01356a387056_teen-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -32994,15 +33045,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\3150e16f-574a-437e-9d17-914a66d7d58a_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\26fab6fd-4e0d-4dd2-9bd0-01356a387056_teen-o.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\34724bc2-de62-40e7-9d2e-32a43309b336_sale-w-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\2933306f-12bf-4307-b955-8a4017e0c48f_women5-4.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/34724bc2-de62-40e7-9d2e-32a43309b336_sale-w-2.png",
+      "RelativePath": "assets/img/2933306f-12bf-4307-b955-8a4017e0c48f_women5-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33011,15 +33062,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\34724bc2-de62-40e7-9d2e-32a43309b336_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\2933306f-12bf-4307-b955-8a4017e0c48f_women5-4.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\375e3b43-d474-4e3f-ba2e-9a93b318201f_w-14.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\2c054657-486a-4f50-91b3-25248f700e6d_women8-4.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/375e3b43-d474-4e3f-ba2e-9a93b318201f_w-14.png",
+      "RelativePath": "assets/img/2c054657-486a-4f50-91b3-25248f700e6d_women8-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33028,7 +33079,58 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\375e3b43-d474-4e3f-ba2e-9a93b318201f_w-14.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\2c054657-486a-4f50-91b3-25248f700e6d_women8-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\34bd9f03-e763-470f-a11b-72d17426a26c_women8-1.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/34bd9f03-e763-470f-a11b-72d17426a26c_women8-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\34bd9f03-e763-470f-a11b-72d17426a26c_women8-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\36ff7dad-16a4-4fe3-9780-678912f20b6d_home-o.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/36ff7dad-16a4-4fe3-9780-678912f20b6d_home-o.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\36ff7dad-16a4-4fe3-9780-678912f20b6d_home-o.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\378c50bc-1e97-4dea-a6e4-e70f02a455f7_home-o.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/378c50bc-1e97-4dea-a6e4-e70f02a455f7_home-o.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\378c50bc-1e97-4dea-a6e4-e70f02a455f7_home-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\37a6c2dd-c49c-4e18-80f2-01615364e329_w-13.png",
@@ -33048,12 +33150,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\37a6c2dd-c49c-4e18-80f2-01615364e329_w-13.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\394f608c-235c-43eb-a8d2-5de3da83496c_sale-w-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\39c15486-08f7-4f63-88e1-2e1aa90e1e4e_z3-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/394f608c-235c-43eb-a8d2-5de3da83496c_sale-w-2.png",
+      "RelativePath": "assets/img/39c15486-08f7-4f63-88e1-2e1aa90e1e4e_z3-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33062,7 +33164,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\394f608c-235c-43eb-a8d2-5de3da83496c_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\39c15486-08f7-4f63-88e1-2e1aa90e1e4e_z3-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3a9ffedd-e841-43d5-a851-c10f16bcad3d_z2-2.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/3a9ffedd-e841-43d5-a851-c10f16bcad3d_z2-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3a9ffedd-e841-43d5-a851-c10f16bcad3d_z2-2.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3bdb7c8e-2902-4ae8-a165-d6b347346d50_m-9.png",
@@ -33082,6 +33201,40 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\3bdb7c8e-2902-4ae8-a165-d6b347346d50_m-9.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3d4e24af-bbd2-473f-aa22-07d0ad4a9718_z2-4.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/3d4e24af-bbd2-473f-aa22-07d0ad4a9718_z2-4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3d4e24af-bbd2-473f-aa22-07d0ad4a9718_z2-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3e810e5c-e26f-40de-b669-8d2767f3fbb3_men-o.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/3e810e5c-e26f-40de-b669-8d2767f3fbb3_men-o.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3e810e5c-e26f-40de-b669-8d2767f3fbb3_men-o.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3ead2d3e-4c75-4787-b4f4-a6de75c5749e_k-10.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33097,6 +33250,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\3ead2d3e-4c75-4787-b4f4-a6de75c5749e_k-10.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3f0fd56f-c185-4e46-99ea-10735401d6ba_sale-w-1.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/3f0fd56f-c185-4e46-99ea-10735401d6ba_sale-w-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3f0fd56f-c185-4e46-99ea-10735401d6ba_sale-w-1.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\3fd74e5e-5deb-411f-beb4-4cfd469991e5_w-4.png",
@@ -33150,12 +33320,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\4184d4b0-4711-4b81-b0e9-27b41f4989a8_w-10.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\45535102-1ca1-4a11-85fa-ed3a3536bcb0_m-10.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\44dc7bfa-b253-4f38-a650-a2977dbdca3d_women6-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/45535102-1ca1-4a11-85fa-ed3a3536bcb0_m-10.png",
+      "RelativePath": "assets/img/44dc7bfa-b253-4f38-a650-a2977dbdca3d_women6-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33164,7 +33334,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\45535102-1ca1-4a11-85fa-ed3a3536bcb0_m-10.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\44dc7bfa-b253-4f38-a650-a2977dbdca3d_women6-1.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\46e62c06-7040-4e44-800d-010f7bad0a16_k-3.png",
@@ -33184,12 +33354,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\46e62c06-7040-4e44-800d-010f7bad0a16_k-3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5252f32a-9196-47c9-ab54-01cbd7c012d1_sale-w-3.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\48ede675-b77e-409e-9df3-c5409c1895ad_women-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/5252f32a-9196-47c9-ab54-01cbd7c012d1_sale-w-3.png",
+      "RelativePath": "assets/img/48ede675-b77e-409e-9df3-c5409c1895ad_women-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33198,7 +33368,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\5252f32a-9196-47c9-ab54-01cbd7c012d1_sale-w-3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\48ede675-b77e-409e-9df3-c5409c1895ad_women-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5344a0ed-7663-42e0-adf0-8d05c03f71cd_m-head.png",
@@ -33218,12 +33388,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\5344a0ed-7663-42e0-adf0-8d05c03f71cd_m-head.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\545dfa8c-35e1-4866-a1fe-8ee019fb946f_w-15.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5420b201-8ed6-483c-8907-dcba80c90fca_women7-2.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/545dfa8c-35e1-4866-a1fe-8ee019fb946f_w-15.png",
+      "RelativePath": "assets/img/5420b201-8ed6-483c-8907-dcba80c90fca_women7-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33232,15 +33402,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\545dfa8c-35e1-4866-a1fe-8ee019fb946f_w-15.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\5420b201-8ed6-483c-8907-dcba80c90fca_women7-2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\54fe16d5-ece6-4f53-9054-b93964971db3_m-4.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\547b8b04-0787-47fd-b414-9bc4e117c630_men-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/54fe16d5-ece6-4f53-9054-b93964971db3_m-4.png",
+      "RelativePath": "assets/img/547b8b04-0787-47fd-b414-9bc4e117c630_men-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33249,24 +33419,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\54fe16d5-ece6-4f53-9054-b93964971db3_m-4.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\563fb62d-7fba-4987-bcc6-b3af9ecb7a1b_sale-w-4.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/563fb62d-7fba-4987-bcc6-b3af9ecb7a1b_sale-w-4.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\563fb62d-7fba-4987-bcc6-b3af9ecb7a1b_sale-w-4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\547b8b04-0787-47fd-b414-9bc4e117c630_men-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\57aa6578-5702-4067-900d-9d196c2ce8e6_m-9.png",
@@ -33286,12 +33439,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\57aa6578-5702-4067-900d-9d196c2ce8e6_m-9.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5879f12f-d284-4ece-9191-8067881c48ce_w-8.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\57b34443-8108-4d96-9ceb-f9316dfb0806_women4-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/5879f12f-d284-4ece-9191-8067881c48ce_w-8.png",
+      "RelativePath": "assets/img/57b34443-8108-4d96-9ceb-f9316dfb0806_women4-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33300,7 +33453,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\5879f12f-d284-4ece-9191-8067881c48ce_w-8.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\57b34443-8108-4d96-9ceb-f9316dfb0806_women4-1.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\58c23931-3a66-4e11-bb64-97ecc067fc1d_women6-2.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/58c23931-3a66-4e11-bb64-97ecc067fc1d_women6-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\58c23931-3a66-4e11-bb64-97ecc067fc1d_women6-2.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\598d6423-9207-41d3-8909-dd4530679cab_k-8.png",
@@ -33320,23 +33490,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\598d6423-9207-41d3-8909-dd4530679cab_k-8.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5a271752-a199-4f67-b137-f6793f6770a9_m-head.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/5a271752-a199-4f67-b137-f6793f6770a9_m-head.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\5a271752-a199-4f67-b137-f6793f6770a9_m-head.png"
-    },
-    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5a66f4d2-37a4-4ca4-bc07-e8f902ff8f64_m-7.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33354,12 +33507,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\5a66f4d2-37a4-4ca4-bc07-e8f902ff8f64_m-7.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\601a0ba5-4933-457b-8abb-a476a0fd19d6_w-16.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5b7a8cc6-0638-437e-aee1-0384d95f7bac_men-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/601a0ba5-4933-457b-8abb-a476a0fd19d6_w-16.png",
+      "RelativePath": "assets/img/5b7a8cc6-0638-437e-aee1-0384d95f7bac_men-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33368,7 +33521,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\601a0ba5-4933-457b-8abb-a476a0fd19d6_w-16.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\5b7a8cc6-0638-437e-aee1-0384d95f7bac_men-o.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\5fba47c8-404c-4a0a-8d42-fa5c3d0e4dee_teen-o.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/5fba47c8-404c-4a0a-8d42-fa5c3d0e4dee_teen-o.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\5fba47c8-404c-4a0a-8d42-fa5c3d0e4dee_teen-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\615c28fe-d148-4f67-9269-9f2f66dc7517_k-9.png",
@@ -33388,23 +33558,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\615c28fe-d148-4f67-9269-9f2f66dc7517_k-9.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\62865ca3-3332-4e88-a479-cc595413e0ff_sale-w-1.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/62865ca3-3332-4e88-a479-cc595413e0ff_sale-w-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\62865ca3-3332-4e88-a479-cc595413e0ff_sale-w-1.png"
-    },
-    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\6409eeec-7581-4cb5-b890-362bc5b60ca5_k-2.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33420,23 +33573,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\6409eeec-7581-4cb5-b890-362bc5b60ca5_k-2.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\64d2d4db-fceb-45aa-b54f-97a6bf9f41d2_sale-w-3.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/64d2d4db-fceb-45aa-b54f-97a6bf9f41d2_sale-w-3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\64d2d4db-fceb-45aa-b54f-97a6bf9f41d2_sale-w-3.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\658ba755-b3ea-4ba5-a5f9-09269a986404_w-10.png",
@@ -33456,12 +33592,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\658ba755-b3ea-4ba5-a5f9-09269a986404_w-10.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\66e64dd1-3a7c-4c3a-97e2-06b80db6ddde_sale-w-4.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\679d10da-0910-4a56-b05b-0ed2c1049238_sale-w-2.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/66e64dd1-3a7c-4c3a-97e2-06b80db6ddde_sale-w-4.png",
+      "RelativePath": "assets/img/679d10da-0910-4a56-b05b-0ed2c1049238_sale-w-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33470,7 +33606,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\66e64dd1-3a7c-4c3a-97e2-06b80db6ddde_sale-w-4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\679d10da-0910-4a56-b05b-0ed2c1049238_sale-w-2.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\68b36147-c509-4e3e-b88a-56ce436ae316_m-2.png",
@@ -33490,6 +33626,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\68b36147-c509-4e3e-b88a-56ce436ae316_m-2.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\6a8b9013-958b-49bb-8f1c-a4a0fc29331f_women8-2.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/6a8b9013-958b-49bb-8f1c-a4a0fc29331f_women8-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\6a8b9013-958b-49bb-8f1c-a4a0fc29331f_women8-2.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\6b0b7db8-4e6a-4c5d-a032-6162fdae4187_w-6.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33507,6 +33660,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\6b0b7db8-4e6a-4c5d-a032-6162fdae4187_w-6.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\6c5522b8-cf83-4697-8430-9685a59cc41e_women9-1.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/6c5522b8-cf83-4697-8430-9685a59cc41e_women9-1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\6c5522b8-cf83-4697-8430-9685a59cc41e_women9-1.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\6ecbbb95-559f-4771-b4d5-1d165c625297_k-3.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33522,23 +33692,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\6ecbbb95-559f-4771-b4d5-1d165c625297_k-3.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\763ad928-fe8b-41c9-8fc9-e08bf65f8f52_sale-w-1.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/763ad928-fe8b-41c9-8fc9-e08bf65f8f52_sale-w-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\763ad928-fe8b-41c9-8fc9-e08bf65f8f52_sale-w-1.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\784bf890-d8a8-4eaa-8347-72550672540f_m-2.png",
@@ -33575,12 +33728,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\787184a9-44cb-4c76-9010-6a77570dedf7_w-7.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\797b2e3a-98f7-46af-be3c-2a36ca1970a4_m-10.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\7a37fe1d-f6c1-4008-9a87-bb873d83bebf_men-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/797b2e3a-98f7-46af-be3c-2a36ca1970a4_m-10.png",
+      "RelativePath": "assets/img/7a37fe1d-f6c1-4008-9a87-bb873d83bebf_men-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33589,15 +33742,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\797b2e3a-98f7-46af-be3c-2a36ca1970a4_m-10.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\7a37fe1d-f6c1-4008-9a87-bb873d83bebf_men-o.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\8135f523-4aa3-4d5f-87ca-3cc81a42d97a_sale-w-3.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\7ee1cb11-f7a3-4a91-8733-6a3a4dd76056_women6-4.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/8135f523-4aa3-4d5f-87ca-3cc81a42d97a_sale-w-3.png",
+      "RelativePath": "assets/img/7ee1cb11-f7a3-4a91-8733-6a3a4dd76056_women6-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33606,7 +33759,24 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\8135f523-4aa3-4d5f-87ca-3cc81a42d97a_sale-w-3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\7ee1cb11-f7a3-4a91-8733-6a3a4dd76056_women6-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\8252cac8-d33c-4c79-be17-634ec5dda1ab_h-head.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/8252cac8-d33c-4c79-be17-634ec5dda1ab_h-head.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\8252cac8-d33c-4c79-be17-634ec5dda1ab_h-head.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\85ef4a4f-7747-4919-bcb0-ba69336d9b33_k-9.png",
@@ -33643,6 +33813,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\88b74e05-bc16-46ec-b782-0fb751c5895e_k-2.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\8d861b58-08c7-4732-9fb6-df8eabf16cb4_women-bag.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/8d861b58-08c7-4732-9fb6-df8eabf16cb4_women-bag.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\8d861b58-08c7-4732-9fb6-df8eabf16cb4_women-bag.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\8dfc3335-fb58-4382-a29f-6e313871b70a_m-5.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33660,12 +33847,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\8dfc3335-fb58-4382-a29f-6e313871b70a_m-5.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\8dfc8c84-5041-4dd6-a015-141f59a765fd_m-1.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\91dc32d1-093f-49b0-b49f-0fc8377571e9_women-dress.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/8dfc8c84-5041-4dd6-a015-141f59a765fd_m-1.png",
+      "RelativePath": "assets/img/91dc32d1-093f-49b0-b49f-0fc8377571e9_women-dress.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33674,7 +33861,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\8dfc8c84-5041-4dd6-a015-141f59a765fd_m-1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\91dc32d1-093f-49b0-b49f-0fc8377571e9_women-dress.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\92586e67-5aa2-4e54-b0b3-2e38c134472b_t-3.png",
@@ -33692,6 +33879,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\92586e67-5aa2-4e54-b0b3-2e38c134472b_t-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\92b45d63-b9f4-4778-b8f4-474e4a605209_women-o.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/92b45d63-b9f4-4778-b8f4-474e4a605209_women-o.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\92b45d63-b9f4-4778-b8f4-474e4a605209_women-o.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\94c97a0b-6761-4695-adbe-57d3aa514ce4_z3-3.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/94c97a0b-6761-4695-adbe-57d3aa514ce4_z3-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\94c97a0b-6761-4695-adbe-57d3aa514ce4_z3-3.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\95223614-30bb-4ff1-9495-7a126b3f7a72_m-10.png",
@@ -33728,23 +33949,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\955b895e-31d4-4b3d-9802-7a40aa6b8649_k-7.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\97d1df8c-b6e0-4fda-9434-f1a5349c2d56_w-6.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/97d1df8c-b6e0-4fda-9434-f1a5349c2d56_w-6.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\97d1df8c-b6e0-4fda-9434-f1a5349c2d56_w-6.png"
-    },
-    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\98392756-2aa0-4aa6-a8a0-370034f8ede6_w-2.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33762,12 +33966,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\98392756-2aa0-4aa6-a8a0-370034f8ede6_w-2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a0658ef9-8ea6-4954-bb8e-af50bc6ee69e_w-15.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\9d1b266c-5f49-48d3-a44e-48d4fb9060ef_women4-2.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/a0658ef9-8ea6-4954-bb8e-af50bc6ee69e_w-15.png",
+      "RelativePath": "assets/img/9d1b266c-5f49-48d3-a44e-48d4fb9060ef_women4-2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33776,41 +33980,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\a0658ef9-8ea6-4954-bb8e-af50bc6ee69e_w-15.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a0a91595-e3fa-4e2a-8183-9304628971d6_w-15.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/a0a91595-e3fa-4e2a-8183-9304628971d6_w-15.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\a0a91595-e3fa-4e2a-8183-9304628971d6_w-15.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a0b53db3-a7a6-4976-9f09-06b347b9fa29_sale-w-2.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/a0b53db3-a7a6-4976-9f09-06b347b9fa29_sale-w-2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\a0b53db3-a7a6-4976-9f09-06b347b9fa29_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\9d1b266c-5f49-48d3-a44e-48d4fb9060ef_women4-2.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a150f36a-9b5e-4b96-afd3-5ee1ef974d73_w-13.png",
@@ -33830,6 +34000,40 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\a150f36a-9b5e-4b96-afd3-5ee1ef974d73_w-13.png"
     },
     {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a29a53a8-3ac4-4659-a9f8-39ce18bcbe28_home-kitchen.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/a29a53a8-3ac4-4659-a9f8-39ce18bcbe28_home-kitchen.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\a29a53a8-3ac4-4659-a9f8-39ce18bcbe28_home-kitchen.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a2b9e5c0-bf4d-429d-8e58-602b784bacf5_women5-2.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/a2b9e5c0-bf4d-429d-8e58-602b784bacf5_women5-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\a2b9e5c0-bf4d-429d-8e58-602b784bacf5_women5-2.png"
+    },
+    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a3eab641-67f5-4996-a226-20d0723ddbbc_w-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33847,12 +34051,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\a3eab641-67f5-4996-a226-20d0723ddbbc_w-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a67281e0-ed71-477d-b0d1-e7752930e628_sale-w-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a695cd42-4efb-4f12-bfb7-02084130cc81_he_newnow_3001_mobile.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/a67281e0-ed71-477d-b0d1-e7752930e628_sale-w-2.png",
+      "RelativePath": "assets/img/a695cd42-4efb-4f12-bfb7-02084130cc81_he_newnow_3001_mobile.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33861,15 +34065,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\a67281e0-ed71-477d-b0d1-e7752930e628_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\a695cd42-4efb-4f12-bfb7-02084130cc81_he_newnow_3001_mobile.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a91b5ee5-8dca-4d5a-9dee-40ad71ed62d3_m-10.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\a97052a1-8a28-4f76-9a3e-63ff63a625a0_women5-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/a91b5ee5-8dca-4d5a-9dee-40ad71ed62d3_m-10.png",
+      "RelativePath": "assets/img/a97052a1-8a28-4f76-9a3e-63ff63a625a0_women5-1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33878,7 +34082,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\a91b5ee5-8dca-4d5a-9dee-40ad71ed62d3_m-10.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\a97052a1-8a28-4f76-9a3e-63ff63a625a0_women5-1.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ab8999f8-6eb9-4125-a3c2-989ff83b515e_k-3.png",
@@ -33898,23 +34102,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\ab8999f8-6eb9-4125-a3c2-989ff83b515e_k-3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\add6d698-362a-4b9e-b0f1-2cac5e728f08_sale-w-3.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/add6d698-362a-4b9e-b0f1-2cac5e728f08_sale-w-3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\add6d698-362a-4b9e-b0f1-2cac5e728f08_sale-w-3.png"
-    },
-    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ae4f6ed8-3850-4c3c-a2ce-ca4dd43ea275_m-1.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33930,23 +34117,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\ae4f6ed8-3850-4c3c-a2ce-ca4dd43ea275_m-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ae69cb96-af43-484d-ae74-bba9de2b71ae_w-4.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/ae69cb96-af43-484d-ae74-bba9de2b71ae_w-4.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\ae69cb96-af43-484d-ae74-bba9de2b71ae_w-4.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\aeb77177-9908-4004-976f-7b0ea27c8b14_m-2.png",
@@ -33966,23 +34136,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\aeb77177-9908-4004-976f-7b0ea27c8b14_m-2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\af245dbd-015d-45cd-a99e-a18a8da017a0_w-16.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/af245dbd-015d-45cd-a99e-a18a8da017a0_w-16.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\af245dbd-015d-45cd-a99e-a18a8da017a0_w-16.png"
-    },
-    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\af5a343c-bafc-429c-8e0e-563e72bf060e_k-2.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -33998,6 +34151,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\af5a343c-bafc-429c-8e0e-563e72bf060e_k-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\b0da721a-a12b-4f5c-9e33-023aede63150_z3-2.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/b0da721a-a12b-4f5c-9e33-023aede63150_z3-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\b0da721a-a12b-4f5c-9e33-023aede63150_z3-2.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\b1a4ba0e-e78c-4e3d-9f7c-1ba3b324d3ce_m-8.png",
@@ -34017,57 +34187,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\b1a4ba0e-e78c-4e3d-9f7c-1ba3b324d3ce_m-8.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\b1f59f99-954c-4fd0-975b-0c9f27d80a91_sale-w-1.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/b1f59f99-954c-4fd0-975b-0c9f27d80a91_sale-w-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\b1f59f99-954c-4fd0-975b-0c9f27d80a91_sale-w-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\b38ee3fa-579a-48af-a461-db87bb03bcb8_sale-w-1.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/b38ee3fa-579a-48af-a461-db87bb03bcb8_sale-w-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\b38ee3fa-579a-48af-a461-db87bb03bcb8_sale-w-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\b88d18e1-9395-4c84-a842-a0dda5ecc47d_w-16.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/b88d18e1-9395-4c84-a842-a0dda5ecc47d_w-16.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\b88d18e1-9395-4c84-a842-a0dda5ecc47d_w-16.png"
-    },
-    {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ba592abf-62b3-46ab-bb62-8f939a49bf80_w-7.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
@@ -34083,6 +34202,74 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\ba592abf-62b3-46ab-bb62-8f939a49bf80_w-7.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\bb6257cc-b62b-41e7-b74c-aa7e56ed2d5a_women5-3.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/bb6257cc-b62b-41e7-b74c-aa7e56ed2d5a_women5-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\bb6257cc-b62b-41e7-b74c-aa7e56ed2d5a_women5-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\bbe0ea94-7747-49a9-bf2c-cf2bebb16b9a_sale-w-4.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/bbe0ea94-7747-49a9-bf2c-cf2bebb16b9a_sale-w-4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\bbe0ea94-7747-49a9-bf2c-cf2bebb16b9a_sale-w-4.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\bd79f83b-5ca7-4ddc-b386-bc4fa5c521f7_women6-3.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/bd79f83b-5ca7-4ddc-b386-bc4fa5c521f7_women6-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\bd79f83b-5ca7-4ddc-b386-bc4fa5c521f7_women6-3.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\c00c5fdc-304a-48bb-b6fd-e4be14da575e_z2-3.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/c00c5fdc-304a-48bb-b6fd-e4be14da575e_z2-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\c00c5fdc-304a-48bb-b6fd-e4be14da575e_z2-3.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\c01e122b-3c67-4a33-bfbd-4547aa0beaad_w-9.png",
@@ -34119,12 +34306,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\c04397e7-8347-4d62-9d9d-7292be030b73_m-7.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\c1c1dfe9-eb69-4d75-8881-21dbd2645ba0_m-10.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\c16a3dbc-fae7-4ab3-8e78-68da2f128016_women-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/c1c1dfe9-eb69-4d75-8881-21dbd2645ba0_m-10.png",
+      "RelativePath": "assets/img/c16a3dbc-fae7-4ab3-8e78-68da2f128016_women-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34133,15 +34320,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\c1c1dfe9-eb69-4d75-8881-21dbd2645ba0_m-10.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\c16a3dbc-fae7-4ab3-8e78-68da2f128016_women-o.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\cbba1a32-671a-40c9-9a08-cf2e108989e0_sale-w-3.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ca0c0c56-b217-4b86-9bd6-3ee1e0dc06ff_women9-3.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/cbba1a32-671a-40c9-9a08-cf2e108989e0_sale-w-3.png",
+      "RelativePath": "assets/img/ca0c0c56-b217-4b86-9bd6-3ee1e0dc06ff_women9-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34150,15 +34337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\cbba1a32-671a-40c9-9a08-cf2e108989e0_sale-w-3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\ca0c0c56-b217-4b86-9bd6-3ee1e0dc06ff_women9-3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\cc7580f3-4670-44fd-8976-f6266133012f_sale-w-2.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\cb5abd3c-22e4-42b5-a459-b9f5ee90533a_kid-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/cc7580f3-4670-44fd-8976-f6266133012f_sale-w-2.png",
+      "RelativePath": "assets/img/cb5abd3c-22e4-42b5-a459-b9f5ee90533a_kid-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34167,7 +34354,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\cc7580f3-4670-44fd-8976-f6266133012f_sale-w-2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\cb5abd3c-22e4-42b5-a459-b9f5ee90533a_kid-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\cc978acf-c1df-4091-924d-617d14765533_w-11.png",
@@ -34185,57 +34372,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\cc978acf-c1df-4091-924d-617d14765533_w-11.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\cd2bac72-f9ff-46ff-b717-2cc506d406aa_w-2.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/cd2bac72-f9ff-46ff-b717-2cc506d406aa_w-2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\cd2bac72-f9ff-46ff-b717-2cc506d406aa_w-2.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ce459e32-078b-423b-af0f-0d611088bbd6_sale-w-1.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/ce459e32-078b-423b-af0f-0d611088bbd6_sale-w-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\ce459e32-078b-423b-af0f-0d611088bbd6_sale-w-1.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d40827ee-f923-4d1b-930f-e9b1ca56eb41_sale-w-2.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/d40827ee-f923-4d1b-930f-e9b1ca56eb41_sale-w-2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\d40827ee-f923-4d1b-930f-e9b1ca56eb41_sale-w-2.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d505c0c5-136f-4f53-a624-0e16af9494ba_w-6.png",
@@ -34272,12 +34408,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\d568eca0-7792-41bc-b5be-d78d40f17a8d_w-9.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d7f314b4-8f81-4d0a-b148-8065704b4b8f_w-14.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d6ce9755-92ff-4714-b157-3fa37f2cc165_women-denim.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/d7f314b4-8f81-4d0a-b148-8065704b4b8f_w-14.png",
+      "RelativePath": "assets/img/d6ce9755-92ff-4714-b157-3fa37f2cc165_women-denim.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34286,15 +34422,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\d7f314b4-8f81-4d0a-b148-8065704b4b8f_w-14.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\d6ce9755-92ff-4714-b157-3fa37f2cc165_women-denim.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d92c56af-58e5-4749-9973-eba6f0800da0_sale-w-4.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d94a8986-f445-40d6-b81d-8481ed1bf5c9_home-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/d92c56af-58e5-4749-9973-eba6f0800da0_sale-w-4.png",
+      "RelativePath": "assets/img/d94a8986-f445-40d6-b81d-8481ed1bf5c9_home-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34303,15 +34439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\d92c56af-58e5-4749-9973-eba6f0800da0_sale-w-4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\d94a8986-f445-40d6-b81d-8481ed1bf5c9_home-o.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\d9b036e9-5cf2-4b7d-8dee-c15c376d90ac_w-14.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\df63a3cd-26b0-4961-ae44-a8cc4057274e_women7-4.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/d9b036e9-5cf2-4b7d-8dee-c15c376d90ac_w-14.png",
+      "RelativePath": "assets/img/df63a3cd-26b0-4961-ae44-a8cc4057274e_women7-4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34320,41 +34456,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\d9b036e9-5cf2-4b7d-8dee-c15c376d90ac_w-14.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\dae2dbb3-214a-404d-865b-0059367ecebc_m-10.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/dae2dbb3-214a-404d-865b-0059367ecebc_m-10.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\dae2dbb3-214a-404d-865b-0059367ecebc_m-10.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\db34ed8c-dd8b-48ac-baa8-8a6d45ef9e58_sale-w-3.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/db34ed8c-dd8b-48ac-baa8-8a6d45ef9e58_sale-w-3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\db34ed8c-dd8b-48ac-baa8-8a6d45ef9e58_sale-w-3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\df63a3cd-26b0-4961-ae44-a8cc4057274e_women7-4.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\e09b0592-3cb8-451d-a28d-d106db5f4494_t-1.png",
@@ -34374,12 +34476,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\e09b0592-3cb8-451d-a28d-d106db5f4494_t-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\e3852c09-04eb-4527-bdea-fcd8f1e9d84d_t-head.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\e3ba4584-1eb9-4697-abf0-a2c1eb0622c9_women7-3.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/e3852c09-04eb-4527-bdea-fcd8f1e9d84d_t-head.jpg",
+      "RelativePath": "assets/img/e3ba4584-1eb9-4697-abf0-a2c1eb0622c9_women7-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34388,15 +34490,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\e3852c09-04eb-4527-bdea-fcd8f1e9d84d_t-head.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\e3ba4584-1eb9-4697-abf0-a2c1eb0622c9_women7-3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\e8b60e80-3fd7-44a0-8b21-2c17bd95e7e5_sale-w-4.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\e5068721-a84f-4525-af8a-35a786926457_home-bathroom.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/e8b60e80-3fd7-44a0-8b21-2c17bd95e7e5_sale-w-4.png",
+      "RelativePath": "assets/img/e5068721-a84f-4525-af8a-35a786926457_home-bathroom.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34405,7 +34507,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\e8b60e80-3fd7-44a0-8b21-2c17bd95e7e5_sale-w-4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\e5068721-a84f-4525-af8a-35a786926457_home-bathroom.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\eabb9e56-9da9-4db1-964e-76fc41bed1dd_t-3.png",
@@ -34425,12 +34527,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\eabb9e56-9da9-4db1-964e-76fc41bed1dd_t-3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ec10f21e-d704-48b1-93f7-ccebc7bb94a9_sale-w-3.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\eb5c31c6-e17e-422f-b3c6-2f1ad0954edb_kid-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/ec10f21e-d704-48b1-93f7-ccebc7bb94a9_sale-w-3.png",
+      "RelativePath": "assets/img/eb5c31c6-e17e-422f-b3c6-2f1ad0954edb_kid-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34439,24 +34541,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\ec10f21e-d704-48b1-93f7-ccebc7bb94a9_sale-w-3.png"
-    },
-    {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ee084893-a54f-4981-bf0d-7625accd34ab_w-3.png",
-      "SourceId": "Mango",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
-      "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/ee084893-a54f-4981-bf0d-7625accd34ab_w-3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\ee084893-a54f-4981-bf0d-7625accd34ab_w-3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\eb5c31c6-e17e-422f-b3c6-2f1ad0954edb_kid-o.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\f3da5de4-0a6d-42ff-b468-56e006614f29_m-1.png",
@@ -34476,12 +34561,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\f3da5de4-0a6d-42ff-b468-56e006614f29_m-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\fb713d7e-3c23-4112-a035-40af4ba4a268_t-head.jpg",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\f923427e-88c5-4b3b-9881-5381e0492ebd_women4-3.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/fb713d7e-3c23-4112-a035-40af4ba4a268_t-head.jpg",
+      "RelativePath": "assets/img/f923427e-88c5-4b3b-9881-5381e0492ebd_women4-3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34490,7 +34575,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\fb713d7e-3c23-4112-a035-40af4ba4a268_t-head.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\f923427e-88c5-4b3b-9881-5381e0492ebd_women4-3.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\fb8f3d94-08a1-4264-89ee-0e6373d64f97_m-1.png",
@@ -34510,12 +34595,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\fb8f3d94-08a1-4264-89ee-0e6373d64f97_m-1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\fe004fbf-1469-463d-9e2a-4ebaef06d2ec_w-11.png",
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\fc5d1764-527b-44c5-8d4e-dd9b9081904c_home-o.png",
       "SourceId": "Mango",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
       "BasePath": "_content/Mango",
-      "RelativePath": "assets/img/fe004fbf-1469-463d-9e2a-4ebaef06d2ec_w-11.png",
+      "RelativePath": "assets/img/fc5d1764-527b-44c5-8d4e-dd9b9081904c_home-o.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -34524,7 +34609,41 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\img\\fe004fbf-1469-463d-9e2a-4ebaef06d2ec_w-11.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\fc5d1764-527b-44c5-8d4e-dd9b9081904c_home-o.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\fe886621-1b84-4c6d-b964-c040ac5b72e0_women9-2.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/fe886621-1b84-4c6d-b964-c040ac5b72e0_women9-2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\fe886621-1b84-4c6d-b964-c040ac5b72e0_women9-2.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\img\\ff81d207-0557-415d-8adf-4981c0ac9631_sale-w-3.png",
+      "SourceId": "Mango",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\",
+      "BasePath": "_content/Mango",
+      "RelativePath": "assets/img/ff81d207-0557-415d-8adf-4981c0ac9631_sale-w-3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\ff81d207-0557-415d-8adf-4981c0ac9631_sale-w-3.png"
     },
     {
       "Identity": "C:\\Users\\user\\Desktop\\Mango-Final\\Mango\\Mango\\wwwroot\\assets\\script.js",
